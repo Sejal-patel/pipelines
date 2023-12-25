@@ -3,3 +3,5 @@
 
 # ignoring virtual environment
 /mlopsvenv
+
+# /.vscode
