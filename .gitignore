@@ -1,1 +1,5 @@
 /data
+
+
+# ignoring virtual environment
+/mlopsvenv
